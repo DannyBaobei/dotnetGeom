@@ -1,0 +1,8 @@
+/Users/wangqi/github/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/wangqi/github/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/wangqi/github/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/wangqi/github/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/wangqi/github/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/wangqi/github/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/wangqi/github/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/wangqi/github/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
